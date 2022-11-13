@@ -1,4 +1,4 @@
-# EMIDS-Hackthon
+# EMIDS-Hackthon(CODE USED FROM invoice2data (open-source)python library)
 Hackthon organised by IIIT on Nov 11-13 2022
 #Installation
 Install pdftotext
